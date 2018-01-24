@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="10 Silnia/src"/>
+	<classpathentry kind="src" path="20 Interfejsy/src"/>
+	<classpathentry kind="src" path="40 ArrayListMagnetStr190/src"/>
+	<classpathentry kind="src" path="50 Konstruktory/src"/>
+	<classpathentry kind="src" path="60 Dziedziczenie/src"/>
+	<classpathentry kind="src" path="70 Metody abstrakcyjne/src"/>
+	<classpathentry kind="src" path="80 @Override/src"/>
+	<classpathentry kind="src" path="90 super/src"/>
+	<classpathentry kind="output" path="10 Silnia/bin"/>
+</classpath>
