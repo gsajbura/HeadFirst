@@ -1,8 +1,9 @@
+//TO JEST TEST
 import java.util.Scanner;
 public class Silnia {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		System.out.println("Podaj liczbê:");
+		System.out.println("Podaj liczbÃª:");
 		int n = input.nextInt();
 		System.out.println("Silnia wynosi: " + obliczSilnie(n));
 		input.close();
