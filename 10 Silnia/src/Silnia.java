@@ -1,4 +1,5 @@
 //TO JEST TEST
+//Test ok
 import java.util.Scanner;
 public class Silnia {
 	public static void main(String[] args) {
